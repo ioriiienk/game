@@ -30,4 +30,4 @@ for(i = 1; i <=3; i++ ){
 
 document.write("<br><br>" + "<h3>Game Result</h3>");
 document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + "<div class = rl >You Had Won = " + won + "</div>" + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
-document.write("<div class = rl >You Had Lost = " + lost + "</div><br>");
+document.write("<div class = rl >You Had Lost = " + lost + "</div><br><h6></h6>");
